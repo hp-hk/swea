@@ -139,3 +139,6 @@ dmypy.json
 
 # .pypi related
 .pypi
+
+# custom files
+devlog.md
